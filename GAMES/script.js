@@ -3,7 +3,7 @@ let question = [
         questions: `QNo.1 : What is the Capital of Pakistan?`,
         answer: {
             ans1: `karachi`,
-            ans2: `P`,
+            ans2: `Multan`,
             ans3: `Islamabad`,
             ans4: `none of them`
 
